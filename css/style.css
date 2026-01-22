@@ -309,6 +309,14 @@ ul {
     color: var(--text-muted);
 }
 
+.about-content p {
+    margin-bottom: 1.5rem;
+}
+
+.about-content p:last-child {
+    margin-bottom: 0;
+}
+
 /* Skills Section */
 .skills-grid {
     display: grid;
